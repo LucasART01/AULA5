@@ -1,0 +1,25 @@
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Saira:ital,wght@0,100..900;1,100..900&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Saira:ital,wght@0,100..900;1,100..900&display=swap');   
+ h1{
+        font-family: "Montserrat", sans-serif; 
+    }
+
+    .date{
+        font-family: "Roboto Condensed";
+        color: #0077b6;
+    }
+
+p{
+        font-family: "Raleway", sans-serif;
+}
+
+section{
+    background-color: #fff1e6;
+}
+
+.container{
+    width: 50%;
+    margin: 0 auto;
+    padding: 50px;
+}
